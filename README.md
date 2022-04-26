@@ -97,7 +97,7 @@
 <br><br>
 
 
-## Just a Snake 🐍 Eating away my Contributions...😭 :<br>
+## Just a Snake 🐍 Eating away my Contributions...😭
 ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
 
 ## Have a Smiley Day...😃 :<br>
