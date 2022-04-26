@@ -96,11 +96,8 @@
 [<img align="top" alt="InstaGram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/ckdosha/)
 <br><br>
 
-  
-  
-  
-<br><br>
-## Just a Snake 🐍 Eating away my Contributions...😭
+
+## Just a Snake 🐍 Eating away my Contributions...😭 :<br>
 ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
 
 ## Have a Smiley Day...😃 :<br>
