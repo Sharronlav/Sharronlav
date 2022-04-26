@@ -30,7 +30,7 @@
 <h3 align="left">Languages:</h3>
 
 - English 🔤
-- Tamil
+- Hebrew
 
 <br><br>
 
